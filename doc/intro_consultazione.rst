@@ -5,7 +5,7 @@ Introduzione per la consultazione pubblica
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal 7settembre 2018 all'8 otttobre 2018.
+- **Durata della consultazione:** dal 7 settembre 2018 all'8 otttobre 2018.
 
 
 - **Settore:** Processi di digitalizzazione
