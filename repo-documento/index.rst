@@ -6,5 +6,4 @@ Le presenti Linee Guida, emesse ai sensi dell’articolo 71 del decreto legislat
 
 .. toctree::
 
-   titolo-capitolo-1.rst
-   titolo-capitolo-2.rst
+   Intro_riferimenti_normativi.rst
