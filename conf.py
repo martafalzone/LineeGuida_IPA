@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee guida dell'indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi"
+settings_project_name = "Linee guida IPA"
 settings_copyright_copyleft = 'AgID'
 settings_editor_name = 'AgID'
 settings_doc_version = 'version: latest'
