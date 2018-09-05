@@ -7,8 +7,8 @@ settings_copyright_copyleft = 'AgID'
 settings_editor_name = 'AgID'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi'
-settings_file_name = 'Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi'
+settings_basename = 'lg-IPA'
+settings_file_name = 'lg-IPA'
 
 # -- No need to change below here
 
