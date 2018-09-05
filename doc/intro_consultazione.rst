@@ -25,4 +25,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in moda
 
 **Come partecipare**
 
-Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione>`_ fino all'8 ottobre 2018.
+Le Linee Guida IPA sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione>`_ fino all'8 ottobre 2018.
