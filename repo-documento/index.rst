@@ -15,5 +15,6 @@ Le presenti Linee Guida, emesse ai sensi dell’articolo 71 del decreto legislat
    :maxdepth: 3
 
    doc/intro_riferimenti_normativi.rst
+   doc/intro_consultazione.rst
    doc/allegato_A.rst
    doc/allegato_B.rst
