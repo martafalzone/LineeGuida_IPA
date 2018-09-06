@@ -36,13 +36,13 @@ Le Linee Guida si applicano ai seguenti soggetti:
 
 - ai sensi dell’art. 6, comma 1-ter del CAD:
 
-a) Pubbliche Amministrazioni di cui all’articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nel rispetto del riparto di competenza di cui all’articolo 117 della Costituzione, ivi comprese le autorità di sistema portuale, nonché autorità amministrative indipendenti di garanzia, vigilanza e regolazione [art. 2, comma 2, lett. a) del CAD];
+a) **Pubbliche Amministrazioni** di cui all’articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nel rispetto del riparto di competenza di cui all’articolo 117 della Costituzione, ivi comprese le autorità di sistema portuale, nonché autorità amministrative indipendenti di garanzia, vigilanza e regolazione [art. 2, comma 2, lett. a) del CAD];
 
-b) Gestori di pubblici servizi, ivi comprese le società quotate, in relazione ai servizi di pubblico interesse [art. 2, comma 2, lett. b) del CAD];
+b) **Gestori di pubblici servizi**, ivi comprese le società quotate, in relazione ai servizi di pubblico interesse [art. 2, comma 2, lett. b) del CAD];
 
 - con riferimento all’obbligo di fatturazione elettronica di cui al D.M. 3 aprile 2013, n. 55:
 
-c) Soggetti e società indicati nell'elenco ISTAT delle Pubbliche Amministrazioni di cui all'articolo 1 della legge 31 dicembre 2009, n. 196.
+c) **Soggetti e società indicati nell'elenco ISTAT delle Pubbliche Amministrazioni** di cui all'articolo 1 della legge 31 dicembre 2009, n. 196.
 
 Sistema informativo
 *******************
@@ -64,8 +64,11 @@ Referente IPA e gestione dati dell’Ente
 ***************************************
 
 L’Ente nell’istanza di accreditamento nomina un Referente IPA che ha il compito di interagire con il Gestore IPA e il Responsabile dell’Ente per l’inserimento e la modifica dei dati, nonché per ogni altra questione riguardante la presenza dell’Ente nell’IPA.
+
 L’Ente accreditato può sostituire il Referente IPA presentando istanza con le modalità previste nelle Guide Operative; con le medesime modalità può aggiungere ulteriori Referenti IPA (fino ad un massimo di 3).
-Il Referente IPA è abilitato dal Gestore IPA ad accedere con le proprie credenziali alle specifiche funzionalità del portale disponibili nell’Area Riservata con le quali inserisce tutte i dati relativi all’Ente di appartenenza previsti dalle presenti Regole Tecniche.
+
+Il Referente IPA è abilitato dal Gestore IPA ad accedere con le proprie credenziali alle specifiche funzionalità del portale disponibili nell’Area Riservata con le quali inserisce tutti i dati relativi all’Ente di appartenenza previsti dalle presenti Regole Tecniche.
+
 Il Referente IPA deve mantenere aggiornati i dati dell’Ente presenti in IPA con tempestività e comunque verificarli almeno ogni 6 mesi, secondo le indicazioni fornite da AgID [comma 3 articolo 6-ter del CAD].
 Tutti gli eventi di modifica dei dati dell’Ente e il contenuto delle variazioni apportate da ciascun Referente IPA sono registrati e conservati.
 
@@ -99,8 +102,11 @@ Struttura dei dati
 ******************
 
 I dati che l’Ente deve obbligatoriamente inserire e mantenere aggiornati nell’IPA sono organizzati in sezioni:
+
 a. Ente;
+
 b. Aree Organizzative Omogenee;
+
 c. Unità Organizzative.
 
 Sezione Ente
@@ -166,7 +172,7 @@ In sede di accreditamento di un soggetto sottoposto all’obbligo della fatturaz
 
 È responsabilità dell’Ente garantire la corretta disponibilità nel tempo del canale trasmissivo dichiarato.
 Una UO con associato un servizio di fatturazione elettronica può essere cancellata dall’IPA solo se è presente almeno un’altra UO con associato un servizio di fatturazione elettronica.
-Le denominazioni "Ufficio per la transizione al Digitale" e “Uff_eFatturaPA” ed i codici ufficio "Ufficio_Transizione_Digitale" e “Uff_eFatturaPA” non possono essere utilizzati dall’Ente in sede di inserimento di nuove UO.
+Le denominazioni “Ufficio per la transizione al Digitale” e “Uff_eFatturaPA” ed i codici ufficio “Ufficio_Transizione_Digitale” e “Uff_eFatturaPA” non possono essere utilizzati dall’Ente in sede di inserimento di nuove UO.
 
 Elezione del domicilio digitale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
