@@ -1,8 +1,8 @@
 Allegato A - Regole Tecniche
 =============================
 
-1 Principi Generali
----------------------
+1. Principi Generali
+------------------------
 
 1.1 Definizioni
 *****************
@@ -50,8 +50,8 @@ c) **Soggetti e società indicati nell'elenco ISTAT delle Pubbliche Amministrazi
 L’IPA è costituito da un sistema informativo le cui funzionalità sono disponibili nell’Area Pubblica e nell’Area Riservata del portale IPA.
 Le modalità operative per l’utilizzo delle funzionalità rese disponibili dall’IPA sono riportate nelle Guide Operative pubblicate sul sito `www.indicepa.gov.it <https://www.indicepa.gov.it/documentale/index.php>`_ 
 
-2 Gestione contenuti informativi
-------------------------------
+2. Gestione contenuti informativi
+-----------------------------------
 
 2.1 Accreditamento
 *******************
@@ -95,8 +95,8 @@ b. un servizio, sul portale IPA, per l’inoltro di richieste informative e di a
 Il Gestore IPA pubblica sul portale IPA la documentazione e le informazioni a supporto degli utenti, con la riserva di modificarne i contenuti in qualsiasi momento e senza preavviso.
 Ogni aggiornamento delle Guide Operative è reso evidente riportando nel documento stesso una numerazione progressiva e la relativa data di aggiornamento.
 
-3  Dati che costituiscono l’IPA
----------------------------------
+3.  Dati che costituiscono l’IPA
+-------------------------------------
 
 3.1 Struttura dei dati
 ***********************
@@ -191,8 +191,8 @@ A far data dall’entrata in vigore delle presenti Linee Guida sono rese disponi
 
 Alla data di entrata in vigore delle presenti Linee Guida sono eletti domicili digitali gli indirizzi di PEC delle AOO censite in IPA che rispondono alle regole sopra definite.
 
-4 Consultazione dell’IPA
----------------------------
+4.  Consultazione dell’IPA
+-------------------------------
 
 4.1 Accesso ai dati e ai servizi erogati
 ******************************************
@@ -207,8 +207,8 @@ I dati inseriti da ciascun Ente sono pubblici e la loro fruizione è garantita a
 È inoltre garantito l’accesso e la fruizione dei predetti dati in conformità all’evoluzione degli standard tecnologici, secondo le indicazioni di AgID.
 I dati disponibili in consultazione sono pubblicati quotidianamente alle ore 06.00 utilizzando i dati forniti dai referenti così come disponibili alle ore 24.00 del giorno precedente.
 
-5 Verifiche e controlli
---------------------------
+5. Verifiche e controlli
+----------------------------
 
 5.1 Verifica della qualità dei dati
 *************************************
