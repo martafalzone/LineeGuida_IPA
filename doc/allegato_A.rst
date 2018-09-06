@@ -13,7 +13,7 @@ Si intende, inoltre, per:
 
 **Ente:** Pubblica amministrazione o Gestore di pubblico servizio o altro soggetto privato a cui si applicano le presenti Linee Guida;
 
-**IPA:** Indice dei domicili digitali delle Pubbliche Amministrazioni e dei gestori di pubblici servizi di cui all’art. 6 ter del CAD;ù
+**IPA:** Indice dei domicili digitali delle Pubbliche Amministrazioni e dei gestori di pubblici servizi di cui all’art. 6 ter del CAD;
 
 **Gestore IPA:** identifica una struttura di AgID - Agenzia per l’Italia digitale - dedicata alla gestione dell’IPA;
 
