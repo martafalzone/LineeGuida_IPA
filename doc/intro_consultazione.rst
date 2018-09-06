@@ -5,7 +5,7 @@ Introduzione per la consultazione pubblica
 **Informazioni sulla consultazione**
 
 
-- **Durata della consultazione:** dal 7 settembre 2018 all'8 otttobre 2018.
+- **Durata della consultazione:** dal 7 settembre 2018 all'8 ottobre 2018.
 
 
 - **Settore:** Processi di digitalizzazione
@@ -13,7 +13,7 @@ Introduzione per la consultazione pubblica
 
 **Esiti della consultazione**
 
-I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e delle successive integrazioni.
+I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e le successive integrazioni.
 
 **Destinatari**
 
