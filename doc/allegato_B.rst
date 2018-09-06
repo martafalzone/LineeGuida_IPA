@@ -15,11 +15,12 @@ Articoli del Decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 �
 
 1. Ciascuna pubblica amministrazione di cui all'art. 2, comma 2, del Codice al fine di trasmettere documenti informatici soggetti alla registrazione di protocollo, si accredita presso l'indice delle amministrazioni di cui all'art. 11 fornendo almeno le seguenti informazioni identificative:
 
-a)	denominazione dell'amministrazione;
-b)	codice fiscale dell'amministrazione c) indirizzo della sede principale dell'amministrazione;
-c)	elenco delle proprie aree organizzative omogenee;
-d)	articolazione dell'amministrazione per uffici;
-e)	il nominativo del referente dell'amministrazione per l'indice delle amministrazioni.
+a)  denominazione dell’amministrazione;
+b)  codice fiscale dell’amministrazione;
+c)  indirizzo della sede principale dell’amministrazione;
+d)  elenco delle proprie aree organizzative omogenee;
+e)  articolazione dell’amministrazione per uffici;
+f)  il nominativo del referente dell’amministrazione per l’indice delle amministrazioni.
 
 2. L'elenco di cui al comma 1, lettera d), comprende, per ciascuna area organizzativa omogenea:
 
