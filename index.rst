@@ -8,7 +8,7 @@ Le presenti Linee Guida, emesse ai sensi dell’articolo 71 del decreto legislat
    
    Questo documento raccoglie il testo delle **Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori    di pubblici servizi**.
 
-   Le linee guida sono in consultazione dal **7 settembre all'8 agosto 2018.**
+   Le linee guida sono in consultazione **dal 7 settembre all'8 ottobre 2018.**
 
 
 .. toctree::
