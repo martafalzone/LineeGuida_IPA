@@ -103,13 +103,13 @@ Struttura dei dati
 
 I dati che l’Ente deve obbligatoriamente inserire e mantenere aggiornati nell’IPA sono organizzati in sezioni:
 
-a. Ente;
+A. Ente;
 
-b. Aree Organizzative Omogenee;
+B. Aree Organizzative Omogenee (AOO);
 
-c. Unità Organizzative.
+C. Unità Organizzative (UO).
 
-Sezione Ente
+A. Sezione Ente
 ^^^^^^^^^^^^
 La sezione contiene le seguenti informazioni che identificano l’Ente:
 
@@ -122,7 +122,7 @@ La sezione contiene le seguenti informazioni che identificano l’Ente:
 
 Il Codice IPA, identificativo univoco dell’Ente, è assegnato in sede di accreditamento dal Gestore IPA e non è modificabile.
 
-Sezione AOO
+B. Sezione AOO
 ^^^^^^^^^^^
 
 La sezione contiene le AOO dell’Ente, una per ciascun registro di protocollo.
@@ -138,7 +138,7 @@ Per ciascuna AOO sono presenti le seguenti informazioni:
 
 Ogni Ente deve inserire nell’IPA almeno una AOO.
 
-Sezione UO
+C. Sezione UO
 ^^^^^^^^^^
 
 La sezione contiene la rappresentazione dell’organizzazione dell’Ente in termini di Unità Organizzative (UO), ove previste.
