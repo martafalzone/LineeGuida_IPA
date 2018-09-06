@@ -13,11 +13,10 @@ Le presenti Linee Guida, emesse ai sensi dell’articolo 71 del decreto legislat
 
 .. toctree::
    :maxdepth: 3
-   :numbered:
-
+   
    doc/intro_consultazione.rst
    doc/intro_riferimenti_normativi.rst
    doc/indice_domicili_digitali.rst
    doc/disposizioni_finali.rst
-   doc/index_allegatoA.rst
-   doc/index_allegatoB.rst
+   doc/allegato_A.rst
+   doc/allegato_B.rst
