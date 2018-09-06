@@ -1,9 +1,11 @@
 Allegato A - Regole tecniche
 
+
+Indice
+
 toctree::
    :maxdepth: 3
-   :numbered:
-
+   
    doc/allegato_A.rst
    
    
