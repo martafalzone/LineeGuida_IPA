@@ -175,7 +175,7 @@ Una UO con associato un servizio di fatturazione elettronica può essere cancell
 Le denominazioni “Ufficio per la transizione al Digitale” e “Uff_eFatturaPA” ed i codici ufficio “Ufficio_Transizione_Digitale” e “Uff_eFatturaPA” non possono essere utilizzati dall’Ente in sede di inserimento di nuove UO.
 
 3.2 Elezione del domicilio digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***********************************
 
 Il domicilio digitale è un indirizzo elettronico eletto presso un servizio di posta elettronica certificata o un servizio elettronico di recapito certificato qualificato valido ai fini delle comunicazioni elettroniche aventi valore legale [art.1 comma 1 lettera n-ter) del CAD]. Gli elementi identificativi di tali comunicazioni, rilevanti ai fini dei procedimenti amministrativi di un Ente, devono essere riportati nel registro di protocollo [art.40 bis del CAD].
 Il domicilio digitale deve essere associato ad un registro di protocollo che nell’IPA è rappresentato da una ed una sola AOO.
