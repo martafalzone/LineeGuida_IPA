@@ -57,3 +57,6 @@ g)	l'elenco degli uffici utente dell'area organizzativa omogenea.
 **Art. 22 Realizzazione dell'indice delle amministrazioni**
 
 1. La realizzazione ed il funzionamento dell'indice di cui all'art. 11, che costituisce una infrastruttura nazionale condivisa appartenente al sistema pubblico di connettività, sono affidati all'Agenzia per l'Italia digitale ai sensi dell'art. 57-bis del Codice.-
+
+.. discourse::
+   :topic_identifier: 4511

@@ -251,3 +251,6 @@ I servizi erogati dall’IPA sono disponibili h24 tutti i giorni dell’anno, a 
 *************************
 Il trattamento dei dati comunicati dall’Ente al Gestore IPA è effettuato in ottemperanza agli obblighi di legge.
 In particolare, il trattamento dei dati riferibili a persone fisiche da parte del Gestore IPA avviene in conformità alla vigente normativa in materia di protezione dei dati personali, nel rispetto dei principi di necessità, pertinenza e non eccedenza.
+
+.. discourse::
+   :topic_identifier: 4512

@@ -15,3 +15,6 @@ Le informazioni che l’Ente deve inserire in IPA per facilitare l’individuazi
 - informazioni caratterizzanti l’Ente;
 - informazioni relative al Registro di protocollo, qualora l’Ente ne debba essere fornito per obbligo di legge;
 - informazioni relative a eventuali uffici istituiti per obbligo di legge.
+
+.. discourse::
+   :topic_identifier: 4514

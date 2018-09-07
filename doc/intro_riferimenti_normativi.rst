@@ -14,3 +14,6 @@ Di seguito si riportano le norme prese a riferimento per la stesura delle presen
 - Legge 24 dicembre 2007, n. 244, articolo 1, comma 209, per l’individuazione dei soggetti sottoposti all’obbligo della fatturazione elettronica;
 - Legge 31 dicembre 2009 n. 196, art. 1, comma 2, per l’individuazione dei soggetti sottoposti all’obbligo della fatturazione elettronica;
 - Circolare interpretativa del Ministero dell'Economia e Finanze numero 1/DF del 9 marzo 2015, per l’individuazione dei soggetti sottoposti all'obbligo della fatturazione elettronica.
+
+.. discourse::
+   :topic_identifier: 4515
